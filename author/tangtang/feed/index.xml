@@ -9,8 +9,8 @@
 
 <channel>
 	<title>tangtang &#8211; Tangweb</title>
-	<atom:link href="http://uerdoris.github.io/tangweb/author/tangtang/feed/" rel="self" type="application/rss+xml" />
-	<link>http://uerdoris.github.io/tangweb/</link>
+	<atom:link href="https://uerdoris.github.io/tangweb/author/tangtang/feed/" rel="self" type="application/rss+xml" />
+	<link>https://uerdoris.github.io/tangweb/</link>
 	<description>我的作品集</description>
 	<lastBuildDate>Wed, 07 Apr 2021 05:27:47 +0000</lastBuildDate>
 	<language>zh-CN</language>
@@ -21,13 +21,13 @@
 	<generator>https://wordpress.org/?v=5.7</generator>
 	<item>
 		<title>潜意识在提醒你</title>
-		<link>http://uerdoris.github.io/tangweb/2021/04/02/%e6%88%91%e7%9a%84%e6%8a%a5%e5%91%8a/</link>
-					<comments>http://uerdoris.github.io/tangweb/2021/04/02/%e6%88%91%e7%9a%84%e6%8a%a5%e5%91%8a/#respond</comments>
+		<link>https://uerdoris.github.io/tangweb/2021/04/02/%e6%88%91%e7%9a%84%e6%8a%a5%e5%91%8a/</link>
+					<comments>https://uerdoris.github.io/tangweb/2021/04/02/%e6%88%91%e7%9a%84%e6%8a%a5%e5%91%8a/#respond</comments>
 		
 		<dc:creator><![CDATA[tangtang]]></dc:creator>
 		<pubDate>Fri, 02 Apr 2021 09:22:00 +0000</pubDate>
 				<category><![CDATA[心理随笔]]></category>
-		<guid isPermaLink="false">http://uerdoris.github.io/tangweb/?p=18</guid>
+		<guid isPermaLink="false">https://uerdoris.github.io/tangweb/?p=18</guid>
 
 					<description><![CDATA[突然意识到。对我而言，包括高考，包括我在家里长大的那些年，我习得了一个重要的底层概念：我不可能按照我喜欢的方式生活。哪怕 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -58,20 +58,20 @@
 <p>那我觉得工作其实也是一样的。以前我总想的是，我希望这个工作可以爱我，他必须要爱我，我才愿意去做。如果一个工作有可能拒绝我，让我体验到挫败、伤害，那么我就不去追求它。也可能我在面对喜欢的工作时，会被强烈地唤起自卑感。我害怕我尽全力也做不好这件事，那也会把我伤得体无完肤。哪怕这是我理想的工作，所以我死都不去行动。现在我发现，你做一件事，绝对不只是因为你能胜任它而已，恰恰相反，因为不管做什么事情都绝不轻松简单，都要付出精力。那为什么你不把你的时间花在值得追求的事上呢。我只是那么单纯地享受在做这件事的过程，只要做这件事，我就会幸福，钱啊别的东西，都只是附带的。我感觉到，我不再那么在意反馈和结果了，我唯独是想做，而已。</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://uerdoris.github.io/tangweb/2021/04/02/%e6%88%91%e7%9a%84%e6%8a%a5%e5%91%8a/feed/</wfw:commentRss>
+					<wfw:commentRss>https://uerdoris.github.io/tangweb/2021/04/02/%e6%88%91%e7%9a%84%e6%8a%a5%e5%91%8a/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>直播流程复盘</title>
-		<link>http://uerdoris.github.io/tangweb/2021/01/21/%e7%9b%b4%e6%92%ad%e6%b5%81%e7%a8%8b%e5%a4%8d%e7%9b%98/</link>
-					<comments>http://uerdoris.github.io/tangweb/2021/01/21/%e7%9b%b4%e6%92%ad%e6%b5%81%e7%a8%8b%e5%a4%8d%e7%9b%98/#respond</comments>
+		<link>https://uerdoris.github.io/tangweb/2021/01/21/%e7%9b%b4%e6%92%ad%e6%b5%81%e7%a8%8b%e5%a4%8d%e7%9b%98/</link>
+					<comments>https://uerdoris.github.io/tangweb/2021/01/21/%e7%9b%b4%e6%92%ad%e6%b5%81%e7%a8%8b%e5%a4%8d%e7%9b%98/#respond</comments>
 		
 		<dc:creator><![CDATA[tangtang]]></dc:creator>
 		<pubDate>Thu, 21 Jan 2021 11:59:00 +0000</pubDate>
 				<category><![CDATA[工作总结]]></category>
-		<guid isPermaLink="false">http://uerdoris.github.io/tangweb/?p=62</guid>
+		<guid isPermaLink="false">https://uerdoris.github.io/tangweb/?p=62</guid>
 
 					<description><![CDATA[坚持进行技术复盘，制作为文档帮助后来人，实现复用价值。]]></description>
 										<content:encoded><![CDATA[
@@ -79,27 +79,27 @@
 
 
 
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="http://uerdoris.github.io/tangweb/wp-content/uploads/2021/04/微信截图_202104061958282.png" alt="" class="wp-image-120" width="1115" height="626"/></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://uerdoris.github.io/tangweb/wp-content/uploads/2021/04/微信截图_202104061958282.png" alt="" class="wp-image-120" width="1115" height="626"/></figure>
 
 
 
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="http://uerdoris.github.io/tangweb/wp-content/uploads/2021/04/微信截图_20210406195813.png" alt="" class="wp-image-65" width="1483" height="832"/></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://uerdoris.github.io/tangweb/wp-content/uploads/2021/04/微信截图_20210406195813.png" alt="" class="wp-image-65" width="1483" height="832"/></figure>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://uerdoris.github.io/tangweb/2021/01/21/%e7%9b%b4%e6%92%ad%e6%b5%81%e7%a8%8b%e5%a4%8d%e7%9b%98/feed/</wfw:commentRss>
+					<wfw:commentRss>https://uerdoris.github.io/tangweb/2021/01/21/%e7%9b%b4%e6%92%ad%e6%b5%81%e7%a8%8b%e5%a4%8d%e7%9b%98/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>文案迭代</title>
-		<link>http://uerdoris.github.io/tangweb/2021/01/06/%e6%96%87%e6%a1%88%e6%96%87%e6%a1%88/</link>
-					<comments>http://uerdoris.github.io/tangweb/2021/01/06/%e6%96%87%e6%a1%88%e6%96%87%e6%a1%88/#respond</comments>
+		<link>https://uerdoris.github.io/tangweb/2021/01/06/%e6%96%87%e6%a1%88%e6%96%87%e6%a1%88/</link>
+					<comments>https://uerdoris.github.io/tangweb/2021/01/06/%e6%96%87%e6%a1%88%e6%96%87%e6%a1%88/#respond</comments>
 		
 		<dc:creator><![CDATA[tangtang]]></dc:creator>
 		<pubDate>Wed, 06 Jan 2021 11:53:00 +0000</pubDate>
 				<category><![CDATA[工作总结]]></category>
-		<guid isPermaLink="false">http://uerdoris.github.io/tangweb/?p=60</guid>
+		<guid isPermaLink="false">https://uerdoris.github.io/tangweb/?p=60</guid>
 
 					<description><![CDATA[深圳读书月·年度观念演讲开场视频文案 我们所能看到的未来 取决于从哪个视角看未来 当时间的尺度被任意调整 我们可以聚焦到 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -360,20 +360,20 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://uerdoris.github.io/tangweb/2021/01/06/%e6%96%87%e6%a1%88%e6%96%87%e6%a1%88/feed/</wfw:commentRss>
+					<wfw:commentRss>https://uerdoris.github.io/tangweb/2021/01/06/%e6%96%87%e6%a1%88%e6%96%87%e6%a1%88/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>逃避-视频脚本</title>
-		<link>http://uerdoris.github.io/tangweb/2020/10/23/%e9%80%83%e9%81%bf%e4%bd%9c%e4%b8%ba%e4%b8%80%e7%a7%8d%e7%94%9f%e6%b4%bb%e6%96%b9%e5%bc%8f/</link>
-					<comments>http://uerdoris.github.io/tangweb/2020/10/23/%e9%80%83%e9%81%bf%e4%bd%9c%e4%b8%ba%e4%b8%80%e7%a7%8d%e7%94%9f%e6%b4%bb%e6%96%b9%e5%bc%8f/#respond</comments>
+		<link>https://uerdoris.github.io/tangweb/2020/10/23/%e9%80%83%e9%81%bf%e4%bd%9c%e4%b8%ba%e4%b8%80%e7%a7%8d%e7%94%9f%e6%b4%bb%e6%96%b9%e5%bc%8f/</link>
+					<comments>https://uerdoris.github.io/tangweb/2020/10/23/%e9%80%83%e9%81%bf%e4%bd%9c%e4%b8%ba%e4%b8%80%e7%a7%8d%e7%94%9f%e6%b4%bb%e6%96%b9%e5%bc%8f/#respond</comments>
 		
 		<dc:creator><![CDATA[tangtang]]></dc:creator>
 		<pubDate>Fri, 23 Oct 2020 12:02:43 +0000</pubDate>
 				<category><![CDATA[读书笔记]]></category>
-		<guid isPermaLink="false">http://uerdoris.github.io/tangweb/?p=69</guid>
+		<guid isPermaLink="false">https://uerdoris.github.io/tangweb/?p=69</guid>
 
 					<description><![CDATA[“我做一件事，不是因为我真的想做这件事，而是我想逃避一件我不想做的事。” 今年的脱口秀“大王”王勉，凭借躺平姿态斩获爆灯 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -508,20 +508,20 @@
 <p>而且，ddl也还在那里。</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://uerdoris.github.io/tangweb/2020/10/23/%e9%80%83%e9%81%bf%e4%bd%9c%e4%b8%ba%e4%b8%80%e7%a7%8d%e7%94%9f%e6%b4%bb%e6%96%b9%e5%bc%8f/feed/</wfw:commentRss>
+					<wfw:commentRss>https://uerdoris.github.io/tangweb/2020/10/23/%e9%80%83%e9%81%bf%e4%bd%9c%e4%b8%ba%e4%b8%80%e7%a7%8d%e7%94%9f%e6%b4%bb%e6%96%b9%e5%bc%8f/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>重新好奇 重拾书籍</title>
-		<link>http://uerdoris.github.io/tangweb/2020/10/06/%e9%87%8d%e6%96%b0%e5%a5%bd%e5%a5%87-%e9%87%8d%e6%8b%be%e4%b9%a6%e7%b1%8d/</link>
-					<comments>http://uerdoris.github.io/tangweb/2020/10/06/%e9%87%8d%e6%96%b0%e5%a5%bd%e5%a5%87-%e9%87%8d%e6%8b%be%e4%b9%a6%e7%b1%8d/#respond</comments>
+		<link>https://uerdoris.github.io/tangweb/2020/10/06/%e9%87%8d%e6%96%b0%e5%a5%bd%e5%a5%87-%e9%87%8d%e6%8b%be%e4%b9%a6%e7%b1%8d/</link>
+					<comments>https://uerdoris.github.io/tangweb/2020/10/06/%e9%87%8d%e6%96%b0%e5%a5%bd%e5%a5%87-%e9%87%8d%e6%8b%be%e4%b9%a6%e7%b1%8d/#respond</comments>
 		
 		<dc:creator><![CDATA[tangtang]]></dc:creator>
 		<pubDate>Tue, 06 Oct 2020 11:35:00 +0000</pubDate>
 				<category><![CDATA[心理随笔]]></category>
-		<guid isPermaLink="false">http://uerdoris.github.io/tangweb/?p=52</guid>
+		<guid isPermaLink="false">https://uerdoris.github.io/tangweb/?p=52</guid>
 
 					<description><![CDATA[最近发生了很多奇妙的兴趣变化，都是从前我压根没设想过的领域。一是哲学，二是政治，或者更准确地讲，公共议题、国际时局和历史 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -560,20 +560,20 @@
 <p>某种程度上，感谢每日书。哪怕是简单的写作，也让我发现一切并没有那么困难。写不出，只有一个原因：积累地不够，思考地太少。没有观察、没有思考、没有成体系的学习，文字不能承载思想的话，必然是无水之鱼，无根之木。每日书是一个记录我心智成长的平台，我的喜怒哀乐。我也在想，试着写一些不那么“个人化”、那么“小”的东西，而是对一些社会问题的分析、思考，可以放在其他的平台上。而这需要我付出成倍的努力去接触那些过去让我全然陌生的东西，幸好，现在早已不以为苦，反以为乐。心理学是一种思维工具，历史、政治、哲学、经济，皆当如此。这几天随一位财经博主了解了一点复杂系统的知识，复杂系统只能预测简单系统的运作，却无法预测同等算力的另一个复杂系统的运作。因此，最聪明的大脑牛顿也会在股市里赔得倾家荡产，而我也不会觉得我可以预测未来的走向。只是这一切都很有趣。</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://uerdoris.github.io/tangweb/2020/10/06/%e9%87%8d%e6%96%b0%e5%a5%bd%e5%a5%87-%e9%87%8d%e6%8b%be%e4%b9%a6%e7%b1%8d/feed/</wfw:commentRss>
+					<wfw:commentRss>https://uerdoris.github.io/tangweb/2020/10/06/%e9%87%8d%e6%96%b0%e5%a5%bd%e5%a5%87-%e9%87%8d%e6%8b%be%e4%b9%a6%e7%b1%8d/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>人类简史书评</title>
-		<link>http://uerdoris.github.io/tangweb/2020/08/06/%e4%bc%9a/</link>
-					<comments>http://uerdoris.github.io/tangweb/2020/08/06/%e4%bc%9a/#respond</comments>
+		<link>https://uerdoris.github.io/tangweb/2020/08/06/%e4%bc%9a/</link>
+					<comments>https://uerdoris.github.io/tangweb/2020/08/06/%e4%bc%9a/#respond</comments>
 		
 		<dc:creator><![CDATA[tangtang]]></dc:creator>
 		<pubDate>Thu, 06 Aug 2020 11:25:43 +0000</pubDate>
 				<category><![CDATA[读书笔记]]></category>
-		<guid isPermaLink="false">http://uerdoris.github.io/tangweb/?p=43</guid>
+		<guid isPermaLink="false">https://uerdoris.github.io/tangweb/?p=43</guid>
 
 					<description><![CDATA[连着几天在看《简史》三部曲，今天总算画下了一个句点。我对这系列的看法是好读有趣又有点深度，不负网红之名，颠覆性的新知识不 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -600,20 +600,20 @@
 <p>紧接着，计算机革命又紧锣密鼓地拉开了序幕。目前人类面临的主要问题可能是科技颠覆和生态灾难。科技带来的新发现可能会让人本思想也走进历史。作者提出了三个关于未来的假说：一，人类可能将失去经济和军事上的价值；二，人类整体有价值而个人失去价值；三，精英阶级的独特个人升级为智神，和智人不再是一个物种。其后的推论将带来更多现有伦理尚未覆盖到的难题。人类里找不到工作的无用阶级到底将往何处去？所谓的自由意志和人类独特性真的存在吗，还是只是复杂一些的生化算法？数据主义者甚至认为人类只是数据流提高其本身信息量的一个工具，权力将集中在掌握数据的人手中，甚至数据本身才是意义。随着失落的自由平等、恐怖主义、后真相时代、民族主义、全球性问题等挑战纷至沓来，我们必须保持谨慎、谦虚、开放的心态去迎接一切挑战，去构建属于自己的意义。</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://uerdoris.github.io/tangweb/2020/08/06/%e4%bc%9a/feed/</wfw:commentRss>
+					<wfw:commentRss>https://uerdoris.github.io/tangweb/2020/08/06/%e4%bc%9a/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>走向自我接纳</title>
-		<link>http://uerdoris.github.io/tangweb/2020/05/06/%e8%b5%b0%e5%90%91%e8%87%aa%e6%88%91%e6%8e%a5%e7%ba%b3/</link>
-					<comments>http://uerdoris.github.io/tangweb/2020/05/06/%e8%b5%b0%e5%90%91%e8%87%aa%e6%88%91%e6%8e%a5%e7%ba%b3/#respond</comments>
+		<link>https://uerdoris.github.io/tangweb/2020/05/06/%e8%b5%b0%e5%90%91%e8%87%aa%e6%88%91%e6%8e%a5%e7%ba%b3/</link>
+					<comments>https://uerdoris.github.io/tangweb/2020/05/06/%e8%b5%b0%e5%90%91%e8%87%aa%e6%88%91%e6%8e%a5%e7%ba%b3/#respond</comments>
 		
 		<dc:creator><![CDATA[tangtang]]></dc:creator>
 		<pubDate>Wed, 06 May 2020 11:37:00 +0000</pubDate>
 				<category><![CDATA[心理随笔]]></category>
-		<guid isPermaLink="false">http://uerdoris.github.io/tangweb/?p=54</guid>
+		<guid isPermaLink="false">https://uerdoris.github.io/tangweb/?p=54</guid>
 
 					<description><![CDATA[我爸昨天说我身在福中不知福。其实我觉得他说得不对，以前我确实觉得不幸福，现在我也确实觉得幸福，虽然境遇好像并没有发生什么 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -660,20 +660,20 @@
 <p>当我昨晚坦然地入睡，今早又平顺地起床、洗碗、整理房间时，我发现那种消失许久的感觉总算又回到了我的身体里。原来这与地理位置无关，不需要去远方就可以获得；与亲戚朋友无关，就算又回到了父母的权威和庇护下，我依旧有自己的选择。<strong>只与一件事有关：认不认同自己，接不接受自己。</strong>这种认同和接纳并非说说而已，相反，这种感受在我生命的这个节点出现，说明它有极强的现实意义——它要从功利和世俗眼中夺回我身体的使用权，说得再白话一点，它要干涉我的工作，告诉我什么样的工作才是我需要的。</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://uerdoris.github.io/tangweb/2020/05/06/%e8%b5%b0%e5%90%91%e8%87%aa%e6%88%91%e6%8e%a5%e7%ba%b3/feed/</wfw:commentRss>
+					<wfw:commentRss>https://uerdoris.github.io/tangweb/2020/05/06/%e8%b5%b0%e5%90%91%e8%87%aa%e6%88%91%e6%8e%a5%e7%ba%b3/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>不被恐惧挟持</title>
-		<link>http://uerdoris.github.io/tangweb/2020/01/09/%e6%81%90%e6%83%a7/</link>
-					<comments>http://uerdoris.github.io/tangweb/2020/01/09/%e6%81%90%e6%83%a7/#respond</comments>
+		<link>https://uerdoris.github.io/tangweb/2020/01/09/%e6%81%90%e6%83%a7/</link>
+					<comments>https://uerdoris.github.io/tangweb/2020/01/09/%e6%81%90%e6%83%a7/#respond</comments>
 		
 		<dc:creator><![CDATA[tangtang]]></dc:creator>
 		<pubDate>Thu, 09 Jan 2020 11:22:00 +0000</pubDate>
 				<category><![CDATA[心理随笔]]></category>
-		<guid isPermaLink="false">http://uerdoris.github.io/tangweb/?p=41</guid>
+		<guid isPermaLink="false">https://uerdoris.github.io/tangweb/?p=41</guid>
 
 					<description><![CDATA[今天吃火锅的时候跟我爸妈谈心，聊到了恐惧。之前印象很深的是，最好的营销手段是恐惧。因为处于恐惧状态下的人会六神无主，只想 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -704,20 +704,20 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://uerdoris.github.io/tangweb/2020/01/09/%e6%81%90%e6%83%a7/feed/</wfw:commentRss>
+					<wfw:commentRss>https://uerdoris.github.io/tangweb/2020/01/09/%e6%81%90%e6%83%a7/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>粉圈的心理操控术</title>
-		<link>http://uerdoris.github.io/tangweb/2019/12/14/hello-world/</link>
-					<comments>http://uerdoris.github.io/tangweb/2019/12/14/hello-world/#comments</comments>
+		<link>https://uerdoris.github.io/tangweb/2019/12/14/hello-world/</link>
+					<comments>https://uerdoris.github.io/tangweb/2019/12/14/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[tangtang]]></dc:creator>
 		<pubDate>Sat, 14 Dec 2019 11:40:00 +0000</pubDate>
 				<category><![CDATA[读书笔记]]></category>
-		<guid isPermaLink="false">http://uerdoris.github.io/tangweb/?p=1</guid>
+		<guid isPermaLink="false">https://uerdoris.github.io/tangweb/?p=1</guid>
 
 					<description><![CDATA[为什么恐怖份子和粉丝会如此疯狂？ 为什么会有人如此决然地牺牲自己宝贵的生命？尤其是调查得知，这些人中不乏、甚至多数是家境 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -800,20 +800,20 @@
 <p>而什么样的人容易进行心理控制呢？他们在封闭的环境中占有优势地位；对弱者缺乏关怀和道德感；能够从对他人的支配中获得快乐。这就是幼稚不成熟的自恋，他们认为自己是万能的，对别人缺乏同情，过分地爱自己。</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://uerdoris.github.io/tangweb/2019/12/14/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://uerdoris.github.io/tangweb/2019/12/14/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>数据战争，谁是赢家？</title>
-		<link>http://uerdoris.github.io/tangweb/2019/12/11/%e6%95%b0%e6%8d%ae%e6%88%98%e4%ba%89%ef%bc%8c%e8%b0%81%e6%98%af%e8%b5%a2%e5%ae%b6%ef%bc%9f/</link>
-					<comments>http://uerdoris.github.io/tangweb/2019/12/11/%e6%95%b0%e6%8d%ae%e6%88%98%e4%ba%89%ef%bc%8c%e8%b0%81%e6%98%af%e8%b5%a2%e5%ae%b6%ef%bc%9f/#respond</comments>
+		<link>https://uerdoris.github.io/tangweb/2019/12/11/%e6%95%b0%e6%8d%ae%e6%88%98%e4%ba%89%ef%bc%8c%e8%b0%81%e6%98%af%e8%b5%a2%e5%ae%b6%ef%bc%9f/</link>
+					<comments>https://uerdoris.github.io/tangweb/2019/12/11/%e6%95%b0%e6%8d%ae%e6%88%98%e4%ba%89%ef%bc%8c%e8%b0%81%e6%98%af%e8%b5%a2%e5%ae%b6%ef%bc%9f/#respond</comments>
 		
 		<dc:creator><![CDATA[tangtang]]></dc:creator>
 		<pubDate>Wed, 11 Dec 2019 12:02:00 +0000</pubDate>
 				<category><![CDATA[采访报告]]></category>
-		<guid isPermaLink="false">http://uerdoris.github.io/tangweb/?p=67</guid>
+		<guid isPermaLink="false">https://uerdoris.github.io/tangweb/?p=67</guid>
 
 					<description><![CDATA[在深圳一间逼仄的单人公寓里，我见到了故事的主人公——清醒。她毕业之后工作了四五年，从家乡的国有银行跳到互联网金融。她评价 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -1028,7 +1028,7 @@
 <p>偶像和粉丝的故事，永远未完待续……</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://uerdoris.github.io/tangweb/2019/12/11/%e6%95%b0%e6%8d%ae%e6%88%98%e4%ba%89%ef%bc%8c%e8%b0%81%e6%98%af%e8%b5%a2%e5%ae%b6%ef%bc%9f/feed/</wfw:commentRss>
+					<wfw:commentRss>https://uerdoris.github.io/tangweb/2019/12/11/%e6%95%b0%e6%8d%ae%e6%88%98%e4%ba%89%ef%bc%8c%e8%b0%81%e6%98%af%e8%b5%a2%e5%ae%b6%ef%bc%9f/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

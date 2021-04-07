@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	《粉圈的心理操控术》的评论	</title>
-	<atom:link href="http://uerdoris.github.io/tangweb/2019/12/14/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>http://uerdoris.github.io/tangweb/2019/12/14/hello-world/</link>
+	<atom:link href="https://uerdoris.github.io/tangweb/2019/12/14/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://uerdoris.github.io/tangweb/2019/12/14/hello-world/</link>
 	<description>我的作品集</description>
 	<lastBuildDate>Wed, 07 Apr 2021 05:20:19 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		评论者：一位WordPress评论者		</title>
-		<link>http://uerdoris.github.io/tangweb/2019/12/14/hello-world/#comment-1</link>
+		<link>https://uerdoris.github.io/tangweb/2019/12/14/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[一位WordPress评论者]]></dc:creator>
 		<pubDate>Tue, 23 Feb 2021 11:40:33 +0000</pubDate>
-		<guid isPermaLink="false">http://uerdoris.github.io/tangweb/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://uerdoris.github.io/tangweb/?p=1#comment-1</guid>
 
 					<description><![CDATA[嗨，这是一条评论。
 要开始审核、编辑及删除评论，请访问仪表盘的“评论”页面。

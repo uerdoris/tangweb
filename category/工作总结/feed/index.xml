@@ -9,8 +9,8 @@
 
 <channel>
 	<title>工作总结 &#8211; Tangweb</title>
-	<atom:link href="http://uerdoris.github.io/tangweb/category/%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93/feed/" rel="self" type="application/rss+xml" />
-	<link>http://uerdoris.github.io/tangweb/</link>
+	<atom:link href="https://uerdoris.github.io/tangweb/category/%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93/feed/" rel="self" type="application/rss+xml" />
+	<link>https://uerdoris.github.io/tangweb/</link>
 	<description>我的作品集</description>
 	<lastBuildDate>Wed, 07 Apr 2021 05:27:47 +0000</lastBuildDate>
 	<language>zh-CN</language>
@@ -21,13 +21,13 @@
 	<generator>https://wordpress.org/?v=5.7</generator>
 	<item>
 		<title>直播流程复盘</title>
-		<link>http://uerdoris.github.io/tangweb/2021/01/21/%e7%9b%b4%e6%92%ad%e6%b5%81%e7%a8%8b%e5%a4%8d%e7%9b%98/</link>
-					<comments>http://uerdoris.github.io/tangweb/2021/01/21/%e7%9b%b4%e6%92%ad%e6%b5%81%e7%a8%8b%e5%a4%8d%e7%9b%98/#respond</comments>
+		<link>https://uerdoris.github.io/tangweb/2021/01/21/%e7%9b%b4%e6%92%ad%e6%b5%81%e7%a8%8b%e5%a4%8d%e7%9b%98/</link>
+					<comments>https://uerdoris.github.io/tangweb/2021/01/21/%e7%9b%b4%e6%92%ad%e6%b5%81%e7%a8%8b%e5%a4%8d%e7%9b%98/#respond</comments>
 		
 		<dc:creator><![CDATA[tangtang]]></dc:creator>
 		<pubDate>Thu, 21 Jan 2021 11:59:00 +0000</pubDate>
 				<category><![CDATA[工作总结]]></category>
-		<guid isPermaLink="false">http://uerdoris.github.io/tangweb/?p=62</guid>
+		<guid isPermaLink="false">https://uerdoris.github.io/tangweb/?p=62</guid>
 
 					<description><![CDATA[坚持进行技术复盘，制作为文档帮助后来人，实现复用价值。]]></description>
 										<content:encoded><![CDATA[
@@ -35,27 +35,27 @@
 
 
 
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="http://uerdoris.github.io/tangweb/wp-content/uploads/2021/04/微信截图_202104061958282.png" alt="" class="wp-image-120" width="1115" height="626"/></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://uerdoris.github.io/tangweb/wp-content/uploads/2021/04/微信截图_202104061958282.png" alt="" class="wp-image-120" width="1115" height="626"/></figure>
 
 
 
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="http://uerdoris.github.io/tangweb/wp-content/uploads/2021/04/微信截图_20210406195813.png" alt="" class="wp-image-65" width="1483" height="832"/></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://uerdoris.github.io/tangweb/wp-content/uploads/2021/04/微信截图_20210406195813.png" alt="" class="wp-image-65" width="1483" height="832"/></figure>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://uerdoris.github.io/tangweb/2021/01/21/%e7%9b%b4%e6%92%ad%e6%b5%81%e7%a8%8b%e5%a4%8d%e7%9b%98/feed/</wfw:commentRss>
+					<wfw:commentRss>https://uerdoris.github.io/tangweb/2021/01/21/%e7%9b%b4%e6%92%ad%e6%b5%81%e7%a8%8b%e5%a4%8d%e7%9b%98/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>文案迭代</title>
-		<link>http://uerdoris.github.io/tangweb/2021/01/06/%e6%96%87%e6%a1%88%e6%96%87%e6%a1%88/</link>
-					<comments>http://uerdoris.github.io/tangweb/2021/01/06/%e6%96%87%e6%a1%88%e6%96%87%e6%a1%88/#respond</comments>
+		<link>https://uerdoris.github.io/tangweb/2021/01/06/%e6%96%87%e6%a1%88%e6%96%87%e6%a1%88/</link>
+					<comments>https://uerdoris.github.io/tangweb/2021/01/06/%e6%96%87%e6%a1%88%e6%96%87%e6%a1%88/#respond</comments>
 		
 		<dc:creator><![CDATA[tangtang]]></dc:creator>
 		<pubDate>Wed, 06 Jan 2021 11:53:00 +0000</pubDate>
 				<category><![CDATA[工作总结]]></category>
-		<guid isPermaLink="false">http://uerdoris.github.io/tangweb/?p=60</guid>
+		<guid isPermaLink="false">https://uerdoris.github.io/tangweb/?p=60</guid>
 
 					<description><![CDATA[深圳读书月·年度观念演讲开场视频文案 我们所能看到的未来 取决于从哪个视角看未来 当时间的尺度被任意调整 我们可以聚焦到 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -316,7 +316,7 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://uerdoris.github.io/tangweb/2021/01/06/%e6%96%87%e6%a1%88%e6%96%87%e6%a1%88/feed/</wfw:commentRss>
+					<wfw:commentRss>https://uerdoris.github.io/tangweb/2021/01/06/%e6%96%87%e6%a1%88%e6%96%87%e6%a1%88/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

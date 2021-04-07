@@ -139,8 +139,8 @@
     font-weight: normal;
     font-style: normal;
 
-    src: url('http://uerdoris.github.io/tangweb/wp-content/themes/bizberg/assets/css/fonts/slick.eot');
-    src: url('http://uerdoris.github.io/tangweb/wp-content/themes/bizberg/assets/css/fonts/slick.eot#iefix') format('embedded-opentype'), url('http://uerdoris.github.io/tangweb/wp-content/themes/bizberg/assets/css/fonts/slick.woff') format('woff'), url('http://uerdoris.github.io/tangweb/wp-content/themes/bizberg/assets/css/fonts/slick.ttf') format('truetype'), url('http://uerdoris.github.io/tangweb/wp-content/themes/bizberg/assets/css/fonts/slick.svg#slick') format('svg');
+    src: url('https://uerdoris.github.io/tangweb/wp-content/themes/bizberg/assets/css/fonts/slick.eot');
+    src: url('https://uerdoris.github.io/tangweb/wp-content/themes/bizberg/assets/css/fonts/slick.eot#iefix') format('embedded-opentype'), url('https://uerdoris.github.io/tangweb/wp-content/themes/bizberg/assets/css/fonts/slick.woff') format('woff'), url('https://uerdoris.github.io/tangweb/wp-content/themes/bizberg/assets/css/fonts/slick.ttf') format('truetype'), url('https://uerdoris.github.io/tangweb/wp-content/themes/bizberg/assets/css/fonts/slick.svg#slick') format('svg');
 }
 /* Arrows */
 .slick-prev,

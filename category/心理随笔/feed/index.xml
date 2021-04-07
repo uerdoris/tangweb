@@ -9,8 +9,8 @@
 
 <channel>
 	<title>心理随笔 &#8211; Tangweb</title>
-	<atom:link href="http://uerdoris.github.io/tangweb/category/%E5%BF%83%E7%90%86%E9%9A%8F%E7%AC%94/feed/" rel="self" type="application/rss+xml" />
-	<link>http://uerdoris.github.io/tangweb/</link>
+	<atom:link href="https://uerdoris.github.io/tangweb/category/%E5%BF%83%E7%90%86%E9%9A%8F%E7%AC%94/feed/" rel="self" type="application/rss+xml" />
+	<link>https://uerdoris.github.io/tangweb/</link>
 	<description>我的作品集</description>
 	<lastBuildDate>Wed, 07 Apr 2021 05:26:10 +0000</lastBuildDate>
 	<language>zh-CN</language>
@@ -21,13 +21,13 @@
 	<generator>https://wordpress.org/?v=5.7</generator>
 	<item>
 		<title>潜意识在提醒你</title>
-		<link>http://uerdoris.github.io/tangweb/2021/04/02/%e6%88%91%e7%9a%84%e6%8a%a5%e5%91%8a/</link>
-					<comments>http://uerdoris.github.io/tangweb/2021/04/02/%e6%88%91%e7%9a%84%e6%8a%a5%e5%91%8a/#respond</comments>
+		<link>https://uerdoris.github.io/tangweb/2021/04/02/%e6%88%91%e7%9a%84%e6%8a%a5%e5%91%8a/</link>
+					<comments>https://uerdoris.github.io/tangweb/2021/04/02/%e6%88%91%e7%9a%84%e6%8a%a5%e5%91%8a/#respond</comments>
 		
 		<dc:creator><![CDATA[tangtang]]></dc:creator>
 		<pubDate>Fri, 02 Apr 2021 09:22:00 +0000</pubDate>
 				<category><![CDATA[心理随笔]]></category>
-		<guid isPermaLink="false">http://uerdoris.github.io/tangweb/?p=18</guid>
+		<guid isPermaLink="false">https://uerdoris.github.io/tangweb/?p=18</guid>
 
 					<description><![CDATA[突然意识到。对我而言，包括高考，包括我在家里长大的那些年，我习得了一个重要的底层概念：我不可能按照我喜欢的方式生活。哪怕 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -58,20 +58,20 @@
 <p>那我觉得工作其实也是一样的。以前我总想的是，我希望这个工作可以爱我，他必须要爱我，我才愿意去做。如果一个工作有可能拒绝我，让我体验到挫败、伤害，那么我就不去追求它。也可能我在面对喜欢的工作时，会被强烈地唤起自卑感。我害怕我尽全力也做不好这件事，那也会把我伤得体无完肤。哪怕这是我理想的工作，所以我死都不去行动。现在我发现，你做一件事，绝对不只是因为你能胜任它而已，恰恰相反，因为不管做什么事情都绝不轻松简单，都要付出精力。那为什么你不把你的时间花在值得追求的事上呢。我只是那么单纯地享受在做这件事的过程，只要做这件事，我就会幸福，钱啊别的东西，都只是附带的。我感觉到，我不再那么在意反馈和结果了，我唯独是想做，而已。</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://uerdoris.github.io/tangweb/2021/04/02/%e6%88%91%e7%9a%84%e6%8a%a5%e5%91%8a/feed/</wfw:commentRss>
+					<wfw:commentRss>https://uerdoris.github.io/tangweb/2021/04/02/%e6%88%91%e7%9a%84%e6%8a%a5%e5%91%8a/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>重新好奇 重拾书籍</title>
-		<link>http://uerdoris.github.io/tangweb/2020/10/06/%e9%87%8d%e6%96%b0%e5%a5%bd%e5%a5%87-%e9%87%8d%e6%8b%be%e4%b9%a6%e7%b1%8d/</link>
-					<comments>http://uerdoris.github.io/tangweb/2020/10/06/%e9%87%8d%e6%96%b0%e5%a5%bd%e5%a5%87-%e9%87%8d%e6%8b%be%e4%b9%a6%e7%b1%8d/#respond</comments>
+		<link>https://uerdoris.github.io/tangweb/2020/10/06/%e9%87%8d%e6%96%b0%e5%a5%bd%e5%a5%87-%e9%87%8d%e6%8b%be%e4%b9%a6%e7%b1%8d/</link>
+					<comments>https://uerdoris.github.io/tangweb/2020/10/06/%e9%87%8d%e6%96%b0%e5%a5%bd%e5%a5%87-%e9%87%8d%e6%8b%be%e4%b9%a6%e7%b1%8d/#respond</comments>
 		
 		<dc:creator><![CDATA[tangtang]]></dc:creator>
 		<pubDate>Tue, 06 Oct 2020 11:35:00 +0000</pubDate>
 				<category><![CDATA[心理随笔]]></category>
-		<guid isPermaLink="false">http://uerdoris.github.io/tangweb/?p=52</guid>
+		<guid isPermaLink="false">https://uerdoris.github.io/tangweb/?p=52</guid>
 
 					<description><![CDATA[最近发生了很多奇妙的兴趣变化，都是从前我压根没设想过的领域。一是哲学，二是政治，或者更准确地讲，公共议题、国际时局和历史 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -110,20 +110,20 @@
 <p>某种程度上，感谢每日书。哪怕是简单的写作，也让我发现一切并没有那么困难。写不出，只有一个原因：积累地不够，思考地太少。没有观察、没有思考、没有成体系的学习，文字不能承载思想的话，必然是无水之鱼，无根之木。每日书是一个记录我心智成长的平台，我的喜怒哀乐。我也在想，试着写一些不那么“个人化”、那么“小”的东西，而是对一些社会问题的分析、思考，可以放在其他的平台上。而这需要我付出成倍的努力去接触那些过去让我全然陌生的东西，幸好，现在早已不以为苦，反以为乐。心理学是一种思维工具，历史、政治、哲学、经济，皆当如此。这几天随一位财经博主了解了一点复杂系统的知识，复杂系统只能预测简单系统的运作，却无法预测同等算力的另一个复杂系统的运作。因此，最聪明的大脑牛顿也会在股市里赔得倾家荡产，而我也不会觉得我可以预测未来的走向。只是这一切都很有趣。</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://uerdoris.github.io/tangweb/2020/10/06/%e9%87%8d%e6%96%b0%e5%a5%bd%e5%a5%87-%e9%87%8d%e6%8b%be%e4%b9%a6%e7%b1%8d/feed/</wfw:commentRss>
+					<wfw:commentRss>https://uerdoris.github.io/tangweb/2020/10/06/%e9%87%8d%e6%96%b0%e5%a5%bd%e5%a5%87-%e9%87%8d%e6%8b%be%e4%b9%a6%e7%b1%8d/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>走向自我接纳</title>
-		<link>http://uerdoris.github.io/tangweb/2020/05/06/%e8%b5%b0%e5%90%91%e8%87%aa%e6%88%91%e6%8e%a5%e7%ba%b3/</link>
-					<comments>http://uerdoris.github.io/tangweb/2020/05/06/%e8%b5%b0%e5%90%91%e8%87%aa%e6%88%91%e6%8e%a5%e7%ba%b3/#respond</comments>
+		<link>https://uerdoris.github.io/tangweb/2020/05/06/%e8%b5%b0%e5%90%91%e8%87%aa%e6%88%91%e6%8e%a5%e7%ba%b3/</link>
+					<comments>https://uerdoris.github.io/tangweb/2020/05/06/%e8%b5%b0%e5%90%91%e8%87%aa%e6%88%91%e6%8e%a5%e7%ba%b3/#respond</comments>
 		
 		<dc:creator><![CDATA[tangtang]]></dc:creator>
 		<pubDate>Wed, 06 May 2020 11:37:00 +0000</pubDate>
 				<category><![CDATA[心理随笔]]></category>
-		<guid isPermaLink="false">http://uerdoris.github.io/tangweb/?p=54</guid>
+		<guid isPermaLink="false">https://uerdoris.github.io/tangweb/?p=54</guid>
 
 					<description><![CDATA[我爸昨天说我身在福中不知福。其实我觉得他说得不对，以前我确实觉得不幸福，现在我也确实觉得幸福，虽然境遇好像并没有发生什么 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -170,20 +170,20 @@
 <p>当我昨晚坦然地入睡，今早又平顺地起床、洗碗、整理房间时，我发现那种消失许久的感觉总算又回到了我的身体里。原来这与地理位置无关，不需要去远方就可以获得；与亲戚朋友无关，就算又回到了父母的权威和庇护下，我依旧有自己的选择。<strong>只与一件事有关：认不认同自己，接不接受自己。</strong>这种认同和接纳并非说说而已，相反，这种感受在我生命的这个节点出现，说明它有极强的现实意义——它要从功利和世俗眼中夺回我身体的使用权，说得再白话一点，它要干涉我的工作，告诉我什么样的工作才是我需要的。</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://uerdoris.github.io/tangweb/2020/05/06/%e8%b5%b0%e5%90%91%e8%87%aa%e6%88%91%e6%8e%a5%e7%ba%b3/feed/</wfw:commentRss>
+					<wfw:commentRss>https://uerdoris.github.io/tangweb/2020/05/06/%e8%b5%b0%e5%90%91%e8%87%aa%e6%88%91%e6%8e%a5%e7%ba%b3/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>不被恐惧挟持</title>
-		<link>http://uerdoris.github.io/tangweb/2020/01/09/%e6%81%90%e6%83%a7/</link>
-					<comments>http://uerdoris.github.io/tangweb/2020/01/09/%e6%81%90%e6%83%a7/#respond</comments>
+		<link>https://uerdoris.github.io/tangweb/2020/01/09/%e6%81%90%e6%83%a7/</link>
+					<comments>https://uerdoris.github.io/tangweb/2020/01/09/%e6%81%90%e6%83%a7/#respond</comments>
 		
 		<dc:creator><![CDATA[tangtang]]></dc:creator>
 		<pubDate>Thu, 09 Jan 2020 11:22:00 +0000</pubDate>
 				<category><![CDATA[心理随笔]]></category>
-		<guid isPermaLink="false">http://uerdoris.github.io/tangweb/?p=41</guid>
+		<guid isPermaLink="false">https://uerdoris.github.io/tangweb/?p=41</guid>
 
 					<description><![CDATA[今天吃火锅的时候跟我爸妈谈心，聊到了恐惧。之前印象很深的是，最好的营销手段是恐惧。因为处于恐惧状态下的人会六神无主，只想 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -214,7 +214,7 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://uerdoris.github.io/tangweb/2020/01/09/%e6%81%90%e6%83%a7/feed/</wfw:commentRss>
+					<wfw:commentRss>https://uerdoris.github.io/tangweb/2020/01/09/%e6%81%90%e6%83%a7/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

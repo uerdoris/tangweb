@@ -9,8 +9,8 @@
 
 <channel>
 	<title>读书笔记 &#8211; Tangweb</title>
-	<atom:link href="http://uerdoris.github.io/tangweb/category/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/feed/" rel="self" type="application/rss+xml" />
-	<link>http://uerdoris.github.io/tangweb/</link>
+	<atom:link href="https://uerdoris.github.io/tangweb/category/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/feed/" rel="self" type="application/rss+xml" />
+	<link>https://uerdoris.github.io/tangweb/</link>
 	<description>我的作品集</description>
 	<lastBuildDate>Wed, 07 Apr 2021 05:25:15 +0000</lastBuildDate>
 	<language>zh-CN</language>
@@ -21,13 +21,13 @@
 	<generator>https://wordpress.org/?v=5.7</generator>
 	<item>
 		<title>逃避-视频脚本</title>
-		<link>http://uerdoris.github.io/tangweb/2020/10/23/%e9%80%83%e9%81%bf%e4%bd%9c%e4%b8%ba%e4%b8%80%e7%a7%8d%e7%94%9f%e6%b4%bb%e6%96%b9%e5%bc%8f/</link>
-					<comments>http://uerdoris.github.io/tangweb/2020/10/23/%e9%80%83%e9%81%bf%e4%bd%9c%e4%b8%ba%e4%b8%80%e7%a7%8d%e7%94%9f%e6%b4%bb%e6%96%b9%e5%bc%8f/#respond</comments>
+		<link>https://uerdoris.github.io/tangweb/2020/10/23/%e9%80%83%e9%81%bf%e4%bd%9c%e4%b8%ba%e4%b8%80%e7%a7%8d%e7%94%9f%e6%b4%bb%e6%96%b9%e5%bc%8f/</link>
+					<comments>https://uerdoris.github.io/tangweb/2020/10/23/%e9%80%83%e9%81%bf%e4%bd%9c%e4%b8%ba%e4%b8%80%e7%a7%8d%e7%94%9f%e6%b4%bb%e6%96%b9%e5%bc%8f/#respond</comments>
 		
 		<dc:creator><![CDATA[tangtang]]></dc:creator>
 		<pubDate>Fri, 23 Oct 2020 12:02:43 +0000</pubDate>
 				<category><![CDATA[读书笔记]]></category>
-		<guid isPermaLink="false">http://uerdoris.github.io/tangweb/?p=69</guid>
+		<guid isPermaLink="false">https://uerdoris.github.io/tangweb/?p=69</guid>
 
 					<description><![CDATA[“我做一件事，不是因为我真的想做这件事，而是我想逃避一件我不想做的事。” 今年的脱口秀“大王”王勉，凭借躺平姿态斩获爆灯 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -162,20 +162,20 @@
 <p>而且，ddl也还在那里。</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://uerdoris.github.io/tangweb/2020/10/23/%e9%80%83%e9%81%bf%e4%bd%9c%e4%b8%ba%e4%b8%80%e7%a7%8d%e7%94%9f%e6%b4%bb%e6%96%b9%e5%bc%8f/feed/</wfw:commentRss>
+					<wfw:commentRss>https://uerdoris.github.io/tangweb/2020/10/23/%e9%80%83%e9%81%bf%e4%bd%9c%e4%b8%ba%e4%b8%80%e7%a7%8d%e7%94%9f%e6%b4%bb%e6%96%b9%e5%bc%8f/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>人类简史书评</title>
-		<link>http://uerdoris.github.io/tangweb/2020/08/06/%e4%bc%9a/</link>
-					<comments>http://uerdoris.github.io/tangweb/2020/08/06/%e4%bc%9a/#respond</comments>
+		<link>https://uerdoris.github.io/tangweb/2020/08/06/%e4%bc%9a/</link>
+					<comments>https://uerdoris.github.io/tangweb/2020/08/06/%e4%bc%9a/#respond</comments>
 		
 		<dc:creator><![CDATA[tangtang]]></dc:creator>
 		<pubDate>Thu, 06 Aug 2020 11:25:43 +0000</pubDate>
 				<category><![CDATA[读书笔记]]></category>
-		<guid isPermaLink="false">http://uerdoris.github.io/tangweb/?p=43</guid>
+		<guid isPermaLink="false">https://uerdoris.github.io/tangweb/?p=43</guid>
 
 					<description><![CDATA[连着几天在看《简史》三部曲，今天总算画下了一个句点。我对这系列的看法是好读有趣又有点深度，不负网红之名，颠覆性的新知识不 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -202,20 +202,20 @@
 <p>紧接着，计算机革命又紧锣密鼓地拉开了序幕。目前人类面临的主要问题可能是科技颠覆和生态灾难。科技带来的新发现可能会让人本思想也走进历史。作者提出了三个关于未来的假说：一，人类可能将失去经济和军事上的价值；二，人类整体有价值而个人失去价值；三，精英阶级的独特个人升级为智神，和智人不再是一个物种。其后的推论将带来更多现有伦理尚未覆盖到的难题。人类里找不到工作的无用阶级到底将往何处去？所谓的自由意志和人类独特性真的存在吗，还是只是复杂一些的生化算法？数据主义者甚至认为人类只是数据流提高其本身信息量的一个工具，权力将集中在掌握数据的人手中，甚至数据本身才是意义。随着失落的自由平等、恐怖主义、后真相时代、民族主义、全球性问题等挑战纷至沓来，我们必须保持谨慎、谦虚、开放的心态去迎接一切挑战，去构建属于自己的意义。</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://uerdoris.github.io/tangweb/2020/08/06/%e4%bc%9a/feed/</wfw:commentRss>
+					<wfw:commentRss>https://uerdoris.github.io/tangweb/2020/08/06/%e4%bc%9a/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>粉圈的心理操控术</title>
-		<link>http://uerdoris.github.io/tangweb/2019/12/14/hello-world/</link>
-					<comments>http://uerdoris.github.io/tangweb/2019/12/14/hello-world/#comments</comments>
+		<link>https://uerdoris.github.io/tangweb/2019/12/14/hello-world/</link>
+					<comments>https://uerdoris.github.io/tangweb/2019/12/14/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[tangtang]]></dc:creator>
 		<pubDate>Sat, 14 Dec 2019 11:40:00 +0000</pubDate>
 				<category><![CDATA[读书笔记]]></category>
-		<guid isPermaLink="false">http://uerdoris.github.io/tangweb/?p=1</guid>
+		<guid isPermaLink="false">https://uerdoris.github.io/tangweb/?p=1</guid>
 
 					<description><![CDATA[为什么恐怖份子和粉丝会如此疯狂？ 为什么会有人如此决然地牺牲自己宝贵的生命？尤其是调查得知，这些人中不乏、甚至多数是家境 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -298,20 +298,20 @@
 <p>而什么样的人容易进行心理控制呢？他们在封闭的环境中占有优势地位；对弱者缺乏关怀和道德感；能够从对他人的支配中获得快乐。这就是幼稚不成熟的自恋，他们认为自己是万能的，对别人缺乏同情，过分地爱自己。</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://uerdoris.github.io/tangweb/2019/12/14/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://uerdoris.github.io/tangweb/2019/12/14/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>愤怒之舞读书笔记</title>
-		<link>http://uerdoris.github.io/tangweb/2019/11/21/%e6%84%a4%e6%80%92%e4%b9%8b%e8%88%9e%e8%af%bb%e4%b9%a6%e7%ac%94%e8%ae%b0/</link>
-					<comments>http://uerdoris.github.io/tangweb/2019/11/21/%e6%84%a4%e6%80%92%e4%b9%8b%e8%88%9e%e8%af%bb%e4%b9%a6%e7%ac%94%e8%ae%b0/#respond</comments>
+		<link>https://uerdoris.github.io/tangweb/2019/11/21/%e6%84%a4%e6%80%92%e4%b9%8b%e8%88%9e%e8%af%bb%e4%b9%a6%e7%ac%94%e8%ae%b0/</link>
+					<comments>https://uerdoris.github.io/tangweb/2019/11/21/%e6%84%a4%e6%80%92%e4%b9%8b%e8%88%9e%e8%af%bb%e4%b9%a6%e7%ac%94%e8%ae%b0/#respond</comments>
 		
 		<dc:creator><![CDATA[tangtang]]></dc:creator>
 		<pubDate>Thu, 21 Nov 2019 11:40:00 +0000</pubDate>
 				<category><![CDATA[读书笔记]]></category>
-		<guid isPermaLink="false">http://uerdoris.github.io/tangweb/?p=56</guid>
+		<guid isPermaLink="false">https://uerdoris.github.io/tangweb/?p=56</guid>
 
 					<description><![CDATA[“你为什么总生气？” “能不能不发脾气了！？有什么用呢？” “亏你每天都看养生知识，竟然不知道生闷气才是健康的第一大杀手 [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -466,7 +466,7 @@
 <p>很多时候我们会有保持原样的惰性。就算我们怎样抱怨或者批评过现状，内心都会有抗拒改变的阻力。当我们真想改变的时候，可能会发现身边的人并不希望改变，并试图矫正我们的异常行为——可能会怀疑和否定自己。你需要知道的是，这非常普遍，应该预期到这一点，并在上面三条技巧的反复锤炼中解决关系中的问题。</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://uerdoris.github.io/tangweb/2019/11/21/%e6%84%a4%e6%80%92%e4%b9%8b%e8%88%9e%e8%af%bb%e4%b9%a6%e7%ac%94%e8%ae%b0/feed/</wfw:commentRss>
+					<wfw:commentRss>https://uerdoris.github.io/tangweb/2019/11/21/%e6%84%a4%e6%80%92%e4%b9%8b%e8%88%9e%e8%af%bb%e4%b9%a6%e7%ac%94%e8%ae%b0/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
